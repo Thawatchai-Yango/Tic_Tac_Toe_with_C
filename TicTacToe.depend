@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612466119 source:d:\be(4th-year)all-data\#hpc-lp-i\hpc_mini_project\tictactoe\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	<omp.h>
+
